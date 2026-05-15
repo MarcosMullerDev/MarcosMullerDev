@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, eu sou Marcos Müller 👋
 
-<!--
-**MarcosMullerDev/MarcosMullerDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor FullStack focado em sistemas web, APIs REST e banco de dados.
 
-Here are some ideas to get you started:
+## Tecnologias
+- PHP
+- Laravel
+- PostgreSQL
+- MySQL
+- JavaScript
+- React.js
+- React Native
+- Node.js
+- Next.js
+- Git/GitHub
+- APIs REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Atualmente
+🚀 Desenvolvendo aplicações web e sistemas administrativos.
+
+## Contato
+📧 marmuller3005@gmail.com
